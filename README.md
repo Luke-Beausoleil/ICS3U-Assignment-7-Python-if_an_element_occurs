@@ -1,0 +1,1 @@
+# ICS3U-Assignment-7-Python-if_an_element_occurs
